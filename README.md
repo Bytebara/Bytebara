@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm Bytebara
 
-<!--
-**Bytebara/Bytebara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated Cybersecurity student with a profound interest in techonology and dedication to solving complex problems regarding the internet a.k.a. I also break stuff :P
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Develop a diverse skill set as a security researcher, enhancing my expertise in malware analysis and information security. 
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Security Automation with Shuffle SOAR          | <a href="https://imgur.com/a/QVdMa8q">Detection Lab</a>|
+| Soon... | ... |
+| Soon...        | ...|
+| Soon...    | ...
+| Soon...              | ...|
+| Soon... | ... |
+
+
+## Projects
+- SOC Automation Project
