@@ -6,7 +6,7 @@
   <img src="assets/terminal-dark.svg" width="100%" alt="Terminal: whoami, bytebara, security operations; focus: detection engineering, threat hunting, log analysis, SOC automation; lab services active.">
 </picture>
 
-I'm working toward a SOC analyst or IT security role, coming from front-line technical support. I'm studying cybersecurity (A.S. in progress, planning a B.S. in Machine Learning and Cybersecurity) and I run a small home SOC lab to practice the job: collecting logs, writing searches, hunting and writing up what I find.
+I'm working toward a SOC analyst or IT security role, coming from front-line technical support. I run a small home SOC lab to practice the job: collecting logs, writing searches, hunting and writing up what I find.
 
 **Portfolio:** [bytebara.info](https://bytebara.info) (*Quiet Signal*), with every skill and project labeled *Applied*, *Explored*, *Learning*, *Simulated* or *Planned*, so you can see what's been used for real.
 
