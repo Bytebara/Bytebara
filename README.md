@@ -74,4 +74,4 @@ Searches: [savedsearches.conf](https://github.com/Bytebara/home-soc-lab/blob/mai
   <img src="assets/stack-dark.svg" width="100%" alt="Tools. Running in my lab: Splunk, CrowdSec, Pi-hole, Unbound, ufw, Debian, Ubuntu, Cloudflare Tunnel, Tailscale. Explored: Wazuh, Sysmon, TheHive, Shuffle SOAR, VirusTotal API. Learning: Python, MITRE ATT&CK.">
 </picture>
 
-<sub>Bytebara is an alias; no personal contact details here by design. The site and lab scripts were developed with AI assistance and reviewed and run by me.</sub>
+<sub>Bytebara is an alias; no personal contact details here by design.</sub>
