@@ -15,13 +15,14 @@ flowchart LR
     internet((Internet)) -->|Cloudflare Tunnel| pi
     devices[Home devices] -->|DNS| pi
     phone[Phone, anywhere] -->|Tailscale| pi
-    subgraph pi[Raspberry Pi 5 sensor]
-        caddy[Caddy web server]
-        crowdsec[CrowdSec + firewall bouncer]
-        pihole[Pi-hole + Unbound DNS over TLS]
-        ufw[ufw firewall]
+    subgraph pi[Raspberry Pi 5]
+        caddy[Caddy]
+        crowdsec[CrowdSec]
+        pihole[Pi-hole]
+        unbound[Unbound]
+        ufw[ufw]
     end
-    pi -->|Splunk Universal Forwarder| splunk[(Splunk on Ubuntu)]
+    pi -->|Forwarder| splunk[(Splunk)]
 ```
 
 - **Sensor:** Raspberry Pi 5 with key-only SSH, ufw and automatic updates. It runs CrowdSec, serves my site through a Cloudflare Tunnel (no open router ports) and filters DNS with Pi-hole, encrypted upstream to Quad9.
