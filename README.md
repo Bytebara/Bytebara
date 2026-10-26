@@ -1,14 +1,14 @@
-# Hi, I'm Bytebara 🦫💻
+# Bytebara
 
-**Calm like a capybara, curious about every byte.** Entry-level security operations: monitoring, detection and automation, with the evidence labeled.
+Entry-level security operations: monitoring, detection and automation.
 
 I'm working toward a SOC analyst or IT security role, coming from front-line technical support. I'm studying cybersecurity (A.S. in progress, planning a B.S. in Machine Learning and Cybersecurity) and I run a small home SOC lab to practice the job: collecting logs, writing searches, hunting and writing up what I find.
 
-🌐 **Portfolio:** [bytebara.info](https://bytebara.info) (my site, *Quiet Signal*), with every skill and project labeled *Applied*, *Explored*, *Learning*, *Simulated* or *Planned*, so you can see what's been used for real.
+**Portfolio:** [bytebara.info](https://bytebara.info) (*Quiet Signal*), with every skill and project labeled *Applied*, *Explored*, *Learning*, *Simulated* or *Planned*, so you can see what's been used for real.
 
 ---
 
-### 🏠 Home SOC lab (running)
+### Home SOC lab (running)
 
 ```mermaid
 flowchart LR
@@ -30,14 +30,14 @@ flowchart LR
 - **Remote access:** Tailscale, with only individual machines shared and SSH allowed from Tailscale only.
 - **Practice so far:** traced firewall blocks to a smart TV (benign), and ran a DNS hunt where long, rare names turned out to be game telemetry.
 
-### 🔎 Interactive demos (synthetic data)
+### Interactive demos (synthetic data)
 
 | Demo | What you do |
 |---|---|
 | [SOC alert triage](https://bytebara.info/soc-lab/) | Work an alert queue, make the call, compare with analyst notes |
 | [DNS hunt](https://bytebara.info/dns-hunt/) | Use hunting leads to find generated domains, tunneling and beaconing among normal lookups |
 
-### 🧰 Tools, labeled like the site
+### Tools, labeled like the site
 
 - **Running in my lab:** Splunk, CrowdSec, Pi-hole, Unbound, ufw, Linux (Debian, Ubuntu), Cloudflare Tunnel, Tailscale
 - **Explored:** Wazuh, Sysmon, TheHive, Shuffle (SOAR), the VirusTotal API
