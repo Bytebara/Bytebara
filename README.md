@@ -3,10 +3,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
-  <img src="assets/terminal-dark.svg" width="100%" alt="Terminal: whoami, bytebara, security operations; focus: detection engineering, threat hunting, log analysis, SOC automation; lab services active.">
+  <img src="assets/terminal-dark.svg" width="100%" alt="Terminal: whoami, bytebara, cloud security, detection, automation; focus: secure cloud design, detection, threat hunting, guardrails; lab services active.">
 </picture>
 
-I'm working toward a SOC analyst or IT security role, coming from front-line technical support. I run a small home SOC lab to practice the job: collecting logs, writing searches, hunting and writing up what I find.
+I'm working toward cloud security engineering: designing environments that are secure from the start, and catching it fast when something goes wrong. I come from front-line technical support, where I learned that security problems are usually operations problems: a missed patch, a misconfiguration, an account with more access than it needs. Right now I run a home security lab to practice hardening, detection and response; next I'm moving into AWS.
 
 **Portfolio:** [bytebara.info](https://bytebara.info) (*Quiet Signal*), with every skill and project labeled *Applied*, *Explored*, *Learning*, *Simulated* or *Planned*, so you can see what's been used for real.
 
@@ -66,12 +66,16 @@ Searches: [savedsearches.conf](https://github.com/Bytebara/home-soc-lab/blob/mai
 | [SOC alert triage](https://bytebara.info/soc-lab/) | Work an alert queue, make the call, compare with analyst notes |
 | [DNS hunt](https://bytebara.info/dns-hunt/) | Use hunting leads to find generated domains, tunneling and beaconing among normal lookups |
 
+### Next: cloud
+
+AWS identity and access management, secure network design (VPCs, security groups), cloud logging and threat detection (CloudTrail, GuardDuty, sent to the same Splunk), and infrastructure as code. In the home lab first: network segmentation and containerized services.
+
 ### Tools
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-  <img src="assets/stack-dark.svg" width="100%" alt="Tools. Running in my lab: Splunk, CrowdSec, Pi-hole, Unbound, ufw, Debian, Ubuntu, Cloudflare Tunnel, Tailscale. Explored: Wazuh, Sysmon, TheHive, Shuffle SOAR, VirusTotal API. Learning: Python, MITRE ATT&CK.">
+  <img src="assets/stack-dark.svg" width="100%" alt="Tools. Running in my lab: Splunk, CrowdSec, Pi-hole, Unbound, ufw, Debian, Ubuntu, Cloudflare Tunnel, Tailscale. Explored: Wazuh, Sysmon, TheHive, Shuffle SOAR, VirusTotal API. Learning: Python, MITRE ATT&CK. Next: AWS IAM, CloudTrail, GuardDuty, VPC design, Terraform, Docker.">
 </picture>
 
 <sub>Bytebara is an alias; no personal contact details here by design.</sub>
