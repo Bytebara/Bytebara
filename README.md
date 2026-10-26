@@ -1,6 +1,6 @@
 # Bytebara
 
-Entry-level security operations: monitoring, detection and automation.
+<img src="assets/terminal.svg" width="100%" alt="Terminal: whoami bytebara (security operations, detection, automation); focus: detection engineering, threat hunting, log analysis, SOC automation; lab services active.">
 
 I'm working toward a SOC analyst or IT security role, coming from front-line technical support. I'm studying cybersecurity (A.S. in progress, planning a B.S. in Machine Learning and Cybersecurity) and I run a small home SOC lab to practice the job: collecting logs, writing searches, hunting and writing up what I find.
 
